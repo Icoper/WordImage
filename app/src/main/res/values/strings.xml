@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Word-Image</string>
+    // MainActivity
+    <string name="enter_title_img">Image title</string>
+    <string name="msg_empty_edit_text">Enter title first.</string>
+    <string name="msg_not_found_img">A picture with this name was not found.</string>
+
+    //Server
+    <string name="api_key">zmz86dvwfnttv5j4r3zacnw5</string>
+    <string name="api_secret">gcS8DtNvMANDgeGs42TFG5XSzCXSUyye6mkZmvbbB2TDn</string>
+</resources>
